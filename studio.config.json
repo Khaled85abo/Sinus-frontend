@@ -1,0 +1,10 @@
+{
+  "packages": {
+    "dir": "",
+    "menu": [
+      ["TOKENS", ["src/tokens"]],
+      ["COMPONENTS", []],
+      ["INFRASTRUCTURE", ["sd-input"]]
+    ]
+  }
+}
